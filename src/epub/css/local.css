@@ -10,3 +10,24 @@ td {
   vertical-align: middle;
   padding:0 10px;
 }
+
+figure{
+    margin: 1em auto;
+    text-align: center;
+}
+
+figure img{
+    display: block;
+    margin: auto;
+    max-width: 100%;
+}
+
+figure + p{
+    text-indent: 0;
+}
+
+figcaption{
+    font-size: .75em;
+    font-style: italic;
+    margin: 1em;
+}
