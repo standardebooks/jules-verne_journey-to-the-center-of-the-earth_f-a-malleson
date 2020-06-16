@@ -1,14 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
-table{
-    margin-left:auto;
-    margin-right:auto
-}
 
-td {
-  text-align: center;
-  vertical-align: middle;
-  padding:0 10px;
+abbr.temperature{
+  font-variant: all-small-caps;
 }
 
 figure{
@@ -26,8 +20,19 @@ figure + p{
     text-indent: 0;
 }
 
-figcaption{
-    font-size: .75em;
-    font-style: italic;
-    margin: 1em;
+span[epub|type~="subtitle"]{
+  display: block;
+  font-weight: normal;
+  font-variant: small-caps;
+}
+
+table{
+    margin-left:auto;
+    margin-right:auto
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+  padding:0 10px;
 }
