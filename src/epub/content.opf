@@ -49,7 +49,8 @@
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Prompted by a mysterious Icelandic manuscript, Professor Lindenbrock and his nephew Axel, with the aid of local guide Hans, goes on an adventure to journey into the centre of the earth through a crater at the dormant volcano Snæfell.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<![CDATA[<p>A classic science fiction novel by French writer <a href="https://standardebooks.org/ebooks/jules-verne">Jules Verne</a>, <i epub:type="se:name.publication.book">Journey to the Center of the Earth</i> is one of the most well-known subterranean fiction to this day and inspired many other similar works and adaptations. First published in 1864 in French as <i xml:lang="fr">Voyage au centre de la Terre</i>, it was quickly translated to English by several different publishers in the 1870s. The current edition was based on the translation by Frederick Amadeus Malleson that was published by Ward Lock&#x00a0;&amp;&#x00a0;Co <abbr>Ltd.</abbr> in 1877.</p>
+			<p>Our first-person viewpoint protagonist is Axel, whose overcautious and unadventurous spirit contrast that of his uncle Professor Otto Lidenbrock, an eccentric professor of geology. When Professor Lidenbrock obtained a mysterious runic coded note in an Icelandic saga manuscript, he was determined to decipher. Axel inadvertently solved the code and, much to his own chagrin, discovered that it was a set of direction left by Icelandic alchemist from the sixteenth century to reach the center of the earth via the volcano Snæfelljökull. Reluctantly, Axel joined his uncle to Iceland, and with the aid of local guide, Hans, began an adventure towards the center of the earth, where they would witness giant mushrooms and insects, an island with an enormous geyser, and battling pre-historic reptiles. One of Verne's most well-known works, this novel is a testament of Verne's love of geology, contemporary science, and cryptography.</p>]]>
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -76,7 +77,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81047942</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber">Norman M. Wolcott</dc:contributor>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer">Matt Chan</dc:contributor>
 		<meta property="se:name.person.full-name" refines="#producer">Matthew Yunho Chan</meta>
 		<meta property="se:url.homepage" refines="#producer">https://github.com/thewchan</meta>
