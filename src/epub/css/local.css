@@ -2,37 +2,37 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 abbr.temperature{
-  font-variant: all-small-caps;
+	font-variant: all-small-caps;
 }
 
 figure{
-    margin: 1em auto;
-    text-align: center;
+	margin: 1em auto;
+	text-align: center;
 }
 
 figure img{
-    display: block;
-    margin: auto;
-    max-width: 100%;
+	display: block;
+	margin: auto;
+	max-width: 100%;
 }
 
 figure + p{
-    text-indent: 0;
+	text-indent: 0;
 }
 
 span[epub|type~="subtitle"]{
-  display: block;
-  font-weight: normal;
-  font-variant: small-caps;
+	display: block;
+	font-weight: normal;
+	font-variant: small-caps;
 }
 
 table{
-    margin-left:auto;
-    margin-right:auto
+	margin-left: auto;
+	margin-right: auto;
 }
 
-td {
-  text-align: center;
-  vertical-align: middle;
-  padding:0 10px;
+td{
+	text-align: center;
+	vertical-align: middle;
+	padding: 0 10px;
 }
