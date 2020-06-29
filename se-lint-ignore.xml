@@ -12,10 +12,4 @@
 			<reason>Keeping Latin phrase "In Situ" capitalized in titlecase.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-041</code>
-			<reason>Question marks here used to denote unknown letters.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
