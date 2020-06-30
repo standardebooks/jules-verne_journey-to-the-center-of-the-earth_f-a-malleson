@@ -60,27 +60,33 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson_edouard-riou</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
+		<meta property="file-as" refines="#author">Jules Verne</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">F. A. Malleson</dc:contributor>
+		<meta property="file-as" refines="#translator">F. A. Malleson</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Frederick Amadeus Malleson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n00067568</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="illustrator">Édouard Riou</dc:contributor>
+		<meta property="file-as" refines="#illustrator">Édouard Riou</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/%C3%89douard_Riou</meta>
 		<meta property="se:url.authority.nacoaf" refines="#illustrator">https://id.loc.gov/authorities/names/nr91017090</meta>
 		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Johan Christian Dahl</dc:contributor>
+		<meta property="file-as" refines="#artist">Johan Christian Dahl</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Johan Christian Claussen Dahl</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Johan_Christian_Dahl</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81047942</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber">Norman M. Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber">Norman M. Wolcott</meta>
 		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer">Matt Chan</meta>
 		<meta property="se:name.person.full-name" refines="#producer">Matthew Yunho Chan</meta>
 		<meta property="se:url.homepage" refines="#producer">https://github.com/thewchan</meta>
 		<meta property="role" refines="#producer" scheme="marc:relators">bkp</meta>
