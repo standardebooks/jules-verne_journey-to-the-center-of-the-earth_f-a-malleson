@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-07-01T21:35:24Z</dc:date>
+		<meta property="dcterms:modified">2020-07-01T21:35:24Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,7 +29,6 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Journey to the Center of the Earth</dc:title>
 		<meta property="file-as" refines="#title">Journey to the Center of the Earth</meta>
-		<meta property="se:alternate-title" refines="#title">Journey to the Centre of the Earth</meta>
 		<meta property="se:alternate-title" refines="#title">A Journey to the Interior of the Earth</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
@@ -44,19 +43,17 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85144441</meta>
 		<meta property="se:subject">Adventure</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta property="se:subject">Travel</meta>
-		<dc:description id="description">Prompted by a mysterious Icelandic manuscript, Professor Lindenbrock and his nephew Axel, with the aid of local guide Hans, goes on an adventure to journey into the centre of the earth through a crater at the dormant volcano Snæfell.</dc:description>
+		<dc:description id="description">Prompted by a mysterious Icelandic manuscript, Professor Lindenbrock and his nephew Axel, with the aid of local guide Hans, go on an adventure to the centre of the earth through a crater at the dormant volcano Snæfelljökull.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A classic science fiction novel by French writer &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, this work is one of the most well-known subterranean fiction to this day and inspired many other similar works and adaptations. First published in 1864 in French as &lt;i lang="fr"&gt;Voyage au centre de la Terre&lt;/i&gt;, it was quickly translated to English by several different publishers in the 1870s. The current edition was based on the translation by Frederick Amadeus Malleson that was published by Ward Lock &amp;amp; Co &lt;abbr&gt;Ltd.&lt;/abbr&gt; in 1877.&lt;/p&gt;
-			&lt;p&gt;Our first-person viewpoint protagonist is Axel, whose overcautious and unadventurous spirit contrasted that of his uncle Professor Otto Lidenbrock, an eccentric professor of geology. When Professor Lidenbrock obtained a mysterious runic coded note in an Icelandic saga manuscript, he was determined to decipher it. Axel inadvertently solved the code and, much to his chagrin, discovered that it was a set of direction left by Icelandic alchemist from the sixteenth century to reach the center of the earth via the volcano Snæfelljökull. Reluctantly, Axel joined his uncle to Iceland, and with the aid of local guide, Hans, began an adventure towards the center of the earth, where they would witness giant mushrooms and insects, an island with an enormous geyser, and battling pre-historic reptiles. One of Verne’s most well-known works, this novel is a testament of Verne’s love of geology, contemporary science, and cryptography.&lt;/p&gt;
+			&lt;p&gt;A classic science fiction novel by French writer &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, this work is one of the most well-known subterranean fictions to this day. It inspired many other similar works and adaptations. First published in 1864 in French as &lt;i lang="fr"&gt;Voyage au centre de la Terre&lt;/i&gt;, it was quickly translated to English by several different publishers in the 1870s. The current edition was based on the translation by Frederick Amadeus Malleson that was published by Ward Lock &amp;amp; Co &lt;abbr&gt;Ltd.&lt;/abbr&gt; in 1877.&lt;/p&gt;
+			&lt;p&gt;Our protagonist is Axel, whose overcautious and unadventurous spirit contrasts with that of his uncle Professor Otto Lidenbrock, an eccentric professor of geology. When Professor Lidenbrock obtains a mysterious runic-coded note in the manuscript of an Icelandic saga, he is determined to decipher it. Axel inadvertently solves the code and, much to his chagrin, discovers that it is a set of directions left by a sixteenth-century Icelandic alchemist to reach the center of the earth via the volcano Snæfelljökull. Reluctantly, Axel joins his uncle on a trip to Iceland, and with the aid of a local guide, Hans, begins an adventure towards the center of the earth, where they will encounter giant mushrooms and insects, an island with an enormous geyser, and battle pre-historic reptiles. One of Verne’s most well-known works, this novel is a testament to Verne’s love of geology, science, and cryptography.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3748</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.32185/</dc:source>
-		<meta property="se:word-count">74089</meta>
-		<meta property="se:reading-ease.flesch">65.1</meta>
+		<meta property="se:word-count">72457</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
@@ -78,19 +75,27 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Johan_Christian_Dahl</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n81047942</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber">Norman M. Wolcott</dc:contributor>
-		<meta property="file-as" refines="#transcriber">Wolcott, Norman M.</meta>
-		<meta property="role" refines="#transcriber" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer">Matt Chan</dc:contributor>
-		<meta property="file-as" refines="#producer">Chan, Matt</meta>
-		<meta property="se:name.person.full-name" refines="#producer">Matthew Yunho Chan</meta>
-		<meta property="se:url.homepage" refines="#producer">https://github.com/thewchan</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">cov</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">pfr</meta>
-		<meta property="role" refines="#producer" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="transcriber-1">Norman M. Wolcott</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Wolcott, Norman M.</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Matt Chan</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Chan, Matt</meta>
+		<meta property="se:name.person.full-name" refines="#producer-1">Matthew Yunho Chan</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/thewchan</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
