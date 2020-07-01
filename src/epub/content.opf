@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson/edouard-riou</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/journey-to-the-center-of-the-earth/f-a-malleson</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -58,24 +58,20 @@
 		<meta property="se:word-count">74089</meta>
 		<meta property="se:reading-ease.flesch">65.1</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson_edouard-riou</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/jules-verne_journey-to-the-center-of-the-earth_f-a-malleson</meta>
 		<dc:creator id="author">Jules Verne</dc:creator>
 		<meta property="file-as" refines="#author">Verne, Jules</meta>
 		<meta property="se:name.person.full-name" refines="#author">Jules Gabriel Verne</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jules_Verne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n79064013</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="translator">F. A. Malleson</dc:contributor>
 		<meta property="file-as" refines="#translator">Malleson, F. A.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Frederick Amadeus Malleson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">https://id.loc.gov/authorities/names/n00067568</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="illustrator">Édouard Riou</dc:contributor>
-		<meta property="file-as" refines="#illustrator">Riou, Édouard</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#illustrator">https://en.wikipedia.org/wiki/%C3%89douard_Riou</meta>
-		<meta property="se:url.authority.nacoaf" refines="#illustrator">https://id.loc.gov/authorities/names/nr91017090</meta>
-		<meta property="role" refines="#illustrator" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">Johan Christian Dahl</dc:contributor>
 		<meta property="file-as" refines="#artist">Dahl, Johan Christian</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Johan Christian Claussen Dahl</meta>
