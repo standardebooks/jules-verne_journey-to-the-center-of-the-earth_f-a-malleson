@@ -12,4 +12,10 @@
 			<reason>Keeping Latin phrase "In Situ" capitalized in titlecase.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-24.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Heading is correctly titlecased given that i’ replaces in.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
