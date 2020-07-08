@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="chapter-18.xhtml">
-		<ignore>
-			<code>t-003</code>
-			<reason>Closing double-quotes omitted because dialogue continued across multiple paragraphs.</reason>
-		</ignore>
-	</file>
 	<file path="chapter-19.xhtml">
 		<ignore>
 			<code>s-023</code>
