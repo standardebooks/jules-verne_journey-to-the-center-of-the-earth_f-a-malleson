@@ -40,3 +40,12 @@ td{
 	vertical-align: middle;
 	padding: 0 1em;
 }
+
+[epub|type~="z3998:diary-entry"]{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+[epub|type~="z3998:diary-entry"] > header{
+	text-align: right;
+}
