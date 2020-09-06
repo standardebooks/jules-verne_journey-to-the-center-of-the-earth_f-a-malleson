@@ -25,12 +25,6 @@ figure + p{
 	text-indent: 0;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 table{
 	margin: 1em auto;
 }
