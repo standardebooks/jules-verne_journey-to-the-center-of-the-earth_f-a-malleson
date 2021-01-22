@@ -21,10 +21,6 @@ figure img{
 	max-width: 100%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 table{
 	margin: 1em auto;
 }
