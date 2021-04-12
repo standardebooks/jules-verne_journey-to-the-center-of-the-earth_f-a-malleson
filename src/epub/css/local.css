@@ -11,6 +11,7 @@ body [xml|lang]{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
