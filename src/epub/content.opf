@@ -45,9 +45,9 @@
 		<meta property="term" refines="#subject-4">sh85144441</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
-		<meta property="collection-type" refines="#collection">series</meta>
-		<meta property="group-position" refines="#collection">3</meta>
+		<meta id="collection-1" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">3</meta>
 		<dc:description id="description">Prompted by a mysterious Icelandic manuscript, a professor and his nephew, with the aid of a local guide, adventure to the center of the earth through the crater of a dormant volcano.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A classic science fiction novel by French writer &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne&lt;/a&gt;, this work is one of the most well-known subterranean fictions to this day. It inspired many similar works and adaptations. First published in 1864 in French as &lt;i lang="fr"&gt;Voyage au centre de la Terre&lt;/i&gt;, it was quickly translated to English by several different publishers in the 1870s. The current edition was based on the translation by Frederick Amadeus Malleson that was published by Ward Lock &amp;amp; Co &lt;abbr&gt;Ltd.&lt;/abbr&gt; in 1877.&lt;/p&gt;
