@@ -27,9 +27,9 @@ table{
 }
 
 td{
+	padding: 0 1em;
 	text-align: center;
 	vertical-align: middle;
-	padding: 0 1em;
 }
 
 [epub|type~="z3998:diary-entry"]{
