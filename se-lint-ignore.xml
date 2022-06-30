@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>t-042</code>
+			<reason>Matched text is stylized on purpose.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-19.xhtml">
 		<ignore>
 			<code>s-023</code>
