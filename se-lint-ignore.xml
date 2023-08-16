@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-002</code>
 			<reason>Matched text is stylized on purpose.</reason>
 		</ignore>
 	</file>
