@@ -5,6 +5,10 @@
 			<code>y-002</code>
 			<reason>Matched text is stylized on purpose.</reason>
 		</ignore>
+		<ignore>
+			<code>y-034</code>
+			<reason>Matched text is a code.</reason>
+		</ignore>
 	</file>
 	<file path="chapter-19.xhtml">
 		<ignore>
