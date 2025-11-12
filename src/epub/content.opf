@@ -71,8 +71,8 @@
 		<meta property="file-as" refines="#translator">Malleson, F. A.</meta>
 		<meta property="se:name.person.full-name" refines="#translator">Frederick Amadeus Malleson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n00067568</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Johan Christian Dahl</dc:contributor>
 		<meta property="file-as" refines="#artist">Dahl, Johan Christian</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Johan Christian Claussen Dahl</meta>
