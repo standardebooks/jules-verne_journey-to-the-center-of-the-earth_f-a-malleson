@@ -30,7 +30,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Journey to the Center of the Earth</dc:title>
 		<meta property="file-as" refines="#title">Journey to the Center of the Earth</meta>
-		<meta property="dcterms:alternate" refines="#title">A Journey to the Interior of the Earth</meta>
+		<meta property="dcterms:alternative" refines="#title">A Journey to the Interior of the Earth</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">Earth (Planet) -- Core -- Fiction</dc:subject>
