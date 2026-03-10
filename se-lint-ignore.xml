@@ -2,19 +2,23 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore code="y-002">
+			<line>144</line>
 			<reason>Matched text is stylized on purpose.</reason>
 		</ignore>
 		<ignore code="y-034">
+			<line>161</line>
 			<reason>Matched text is a code.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-19.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Keeping Latin phrase "In Situ" capitalized in titlecase.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-24.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Heading is correctly titlecased given that i’ replaces in.</reason>
 		</ignore>
 	</file>
